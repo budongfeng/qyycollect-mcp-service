@@ -1,0 +1,14 @@
+[project]
+name = "yfy-kbase-collect"
+version = "0.1.0"
+description = "collec query conetent convert to yifangyun kbase"
+authors = [
+    { name = "wangjiaxing", email = "1196510942@qq.com" }
+]
+dependencies = [
+    "mcp",
+    "fastmcp"
+]
+
+[project.scripts]
+my-mcp-server = "mcp_server:main"
