@@ -11,4 +11,4 @@ dependencies = [
 ]
 
 [project.scripts]
-my-mcp-server = "yfy_mcp_server.mcp_server:main"
+qyycollect-mcp-server = "yfy_mcp_server.mcp_server:main"
